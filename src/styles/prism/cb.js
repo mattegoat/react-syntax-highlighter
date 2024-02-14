@@ -1,7 +1,7 @@
 export default {
     "code[class*=\"language-\"]": {
         "color": "#fff",
-        "textShadow": "0 1px 1px #000",
+        "textShadow": "unset",
         "fontFamily": "Menlo, Monaco, \"Courier New\", monospace",
         "direction": "ltr",
         "textAlign": "left",
@@ -29,7 +29,7 @@ export default {
         "whiteSpace": "pre",
         "wordWrap": "normal",
         "lineHeight": "1.4",
-        "background": "#222",
+        "background": "transparent",
         "border": "0",
         "MozTabSize": "4",
         "OTabSize": "4",
